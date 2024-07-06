@@ -17,6 +17,7 @@ const corsOptions = {
     "https://web-math-front-lxlts66g89582f3b.sel5.cloudtype.app",
     "https://web-math-front-backup-lxlts66g89582f3b.sel5.cloudtype.app",
     "http://localhost:3000",
+    "http://127.0.0.1:5500",
   ],
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
   credentials: true,
