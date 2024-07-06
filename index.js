@@ -13,8 +13,8 @@ const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY }); // OpenAI 인
 // CORS 설정
 const corsOptions = {
   origin: [
-    "https://port-0-test-back-lxlts66g89582f3b.sel5.cloudtype.app",
-    "https://web-math-front-lxlts66g89582f3b.sel5.cloudtype.app",
+    "https://port-0-test-back-ly9ixurp0f2977c6.sel5.cloudtype.app",
+    "https://web-math-front-backup-ly9ixurp0f2977c6.sel5.cloudtype.app",
     "https://web-math-front-backup-lxlts66g89582f3b.sel5.cloudtype.app",
     "http://localhost:3000",
   ],
